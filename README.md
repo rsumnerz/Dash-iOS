@@ -8,6 +8,7 @@ Also please check out [Dash for macOS](https://kapeli.com/dash).
 
 ## Installation Instructions
 
+<<<<<<< master
 The recommended way of installing Dash is through the [App Store](https://itunes.apple.com/us/app/dash-offline-api-docs/id1239167694?mt=8).
 
 Alternatively, you can use Xcode to install Dash on your iOS device using just your Apple ID.
@@ -16,6 +17,14 @@ All you need to do is:
 
 1. Install [Xcode](https://developer.apple.com/xcode/download/)
 1. Download the [Dash for iOS Source Code](https://github.com/Kapeli/Dash-iOS/releases/latest) or `git clone https://github.com/Kapeli/Dash-iOS.git`
+=======
+You can use Xcode 8 to install Dash on your iOS device using just your Apple ID.
+
+All you need to do is:
+
+1. Install [Xcode 8](https://developer.apple.com/xcode/download/)
+1. Download the [Dash for iOS Source Code](https://github.com/Kapeli/Dash-iOS/releases/latest)
+>>>>>>> 80ca94f
 1. Open "Dash iOS.xcworkspace" in Xcode
 1. Go to Xcode's Preferences > Accounts and add your Apple ID
 1. In Xcode's sidebar select "Dash iOS" and go to General > Identity. Append a word at the end of the *Bundle Identifier* e.g. com.kapeli.dash.ios*.name* so it's unique. Select your Apple ID in Signing > Team
