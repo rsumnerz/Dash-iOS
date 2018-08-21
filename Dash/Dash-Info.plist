@@ -6,6 +6,7 @@
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>${PRODUCT_NAME}</string>
+<<<<<<<+HEAD
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -26,6 +27,8 @@
 			</array>
 		</dict>
 	</array>
+=======
+>>>>>>>-4884835
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
@@ -37,7 +40,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<<+HEAD
 	<string>1.8.9</string>
+=======
+	<string>1.5.0</string>
+>>>>>>>-4884835
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -53,7 +60,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<<+HEAD
 	<string>350</string>
+=======
+	<string>150</string>
+>>>>>>>-4884835
 	<key>CSSCommit</key>
 	<string>not set</string>
 	<key>DHDBResultCommit</key>
@@ -139,6 +150,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+<<<<<<<+HEAD
 	<key>UTExportedTypeDeclarations</key>
 	<array>
 		<dict>
@@ -179,5 +191,7 @@
 			</dict>
 		</dict>
 	</array>
+=======
+>>>>>>>-4884835
 </dict>
 </plist>
