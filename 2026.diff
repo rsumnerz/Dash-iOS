@@ -1,0 +1,34 @@
+diff --git a/docsets/Distributed/Distributed.tgz b/docsets/Distributed/Distributed.tgz
+new file mode 100644
+index 000000000..716d5c297
+Binary files /dev/null and b/docsets/Distributed/Distributed.tgz differ
+diff --git a/docsets/Distributed/README.md b/docsets/Distributed/README.md
+new file mode 100644
+index 000000000..a08d2ba34
+--- /dev/null
++++ b/docsets/Distributed/README.md
+@@ -0,0 +1,8 @@
++Distributed Dash Docset
++=====
++
++- Docset Description:
++    - "A library for distributed computation".
++
++- Docset Author:
++    - [Joseph Crail](https://github.com/jbcrail)
+diff --git a/docsets/Distributed/docset.json b/docsets/Distributed/docset.json
+new file mode 100644
+index 000000000..fa1fd32c0
+--- /dev/null
++++ b/docsets/Distributed/docset.json
+@@ -0,0 +1,10 @@
++{
++  "name": "Distributed",
++  "version": "1.22.1",
++  "archive": "Distributed.tgz",
++  "author": {
++    "name": "Joseph Crail",
++    "link": "https://github.com/jbcrail"
++  },
++  "aliases": ["task-scheduling parallelism"]
++}
